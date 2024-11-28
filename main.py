@@ -1,5 +1,5 @@
 from tkinter import Tk,Canvas,PhotoImage,Label,Entry,Button,END,messagebox
-import random
+import random 
 import pyperclip
 import json
 # ---------------------------- PASSWORD GENERATOR ------------------------------- #
